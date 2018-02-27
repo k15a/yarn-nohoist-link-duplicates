@@ -1,0 +1,11 @@
+{
+	"name": "@project/two",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "MIT",
+	"dependencies": {
+		"@project/one": "1.0.0",
+		"jest": "^22.4.2",
+		"react": "^16.2.0"
+	}
+}
